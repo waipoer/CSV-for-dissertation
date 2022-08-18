@@ -1,4 +1,4 @@
-﻿Time Step,Robot ID,X,Y,Degree,SD Est,,
+﻿Network Category,Time Step,Robot ID,X,Y,Degree,SD Est,
 12-Chain,1,0,-12.5,0,2,2,
 12-Chain,1,1,-112.5,0,2,2,
 12-Chain,1,2,-62.5,0,2,2,
